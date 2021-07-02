@@ -1,0 +1,90 @@
+.container {
+  padding: 0;
+}
+
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+
+#navbar .nav-items ul {
+  float: none;
+}
+
+#navbar .nav-items ul li {
+  float: none;
+}
+
+#navbar .nav-items ul li a {
+  padding: 5px 0;
+  margin-left: 0;
+  margin-top: 2.5px;
+  border-bottom: #444 dotted 1px;
+}
+
+#home-info .info-img {
+  height: 550px;
+  display: none;
+}
+
+#home-info .info-content {
+  float: none;
+  width: 100%;
+}
+
+#features .box {
+  float: none;
+  width: 100%;
+}
+
+/***About Page***/
+
+#about-info {
+  padding: 20px;
+}
+
+#about-info .info-content,
+#about-info .info-img {
+  float: none;
+  width: 100%;
+}
+
+#about-info .info-img {
+  margin: 30px 0;
+}
+
+.l-heading {
+  text-align: center;
+}
+
+#testimonials .container {
+  padding: 20px;
+}
+
+.box {
+  float: none;
+  width: 100%;
+}
+
+#contact-info .container {
+  margin-top: 30px;
+}
+
+#contact-info .box {
+  border-bottom: #444 dotted 1px;
+}
+
+#contact-form .container {
+  margin: auto;
+  max-width: 1100px;
+  overflow: auto;
+  padding: 20px;
+}
+
+#showcase .showcase-content h1 {
+  padding-top: 100px;
+}
+
+#showcase .showcase-content {
+  padding: 0 20px;
+}
